@@ -118,7 +118,7 @@
 @media (max-width:440px) {
     .regestration__main {
         width: 97%;
-        margin-top: 40%;
         height: 340px;
+        margin-top: 200px;
     }
 }
