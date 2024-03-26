@@ -17,6 +17,8 @@
 //  };
 //  transporter.sendMail(mailOptions);
 
+
+
 const a = document.querySelector('input')
 const btn = document.querySelector('.regestration__log > button')
 const btn2 = document.querySelector('.regestration__info > button')
@@ -24,7 +26,7 @@ const btn2 = document.querySelector('.regestration__info > button')
 btn.addEventListener('click', () => {
     alert('Thank you for regestration!') 
    location.reload()
-   console.log('hello wolrd')
+   window.location.replace('cyber.html')
 } )
 
 btn2.addEventListener('click' , (e) => {
