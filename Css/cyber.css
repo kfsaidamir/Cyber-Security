@@ -120,6 +120,11 @@ span {
     color: rgba(48, 170, 218, 0.67);
 }
 
+.cyber__info > button {
+    border: none;
+    background-color: transparent;
+}
+
 @media (max-width:440px) {
     header {
         width: 100%;
