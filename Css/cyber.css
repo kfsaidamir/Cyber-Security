@@ -126,7 +126,7 @@ span {
     }
 
     nav > a {
-        font-size: 10px;
+        font-size: 15px;
     }
 
     .cyber__main {
@@ -155,7 +155,11 @@ span {
     #section {
         width: 100%;
         height: max-content;
-        padding: 0px 30px  30px;
+        padding: 0px 10px  30px;
+    }
+
+    .cyber__info > p {
+        font-size: 15px;
     }
 
     #section {
@@ -193,6 +197,14 @@ span {
     }
 
     br {
+        display: none;
+    }
+
+    #support {
+        display: none;
+    }
+
+    #location {
         display: none;
     }
 }
