@@ -8,7 +8,6 @@
 //     }
 //  };
 
-
 //  const mailOptions = {
 //     from : 'skadirov2009@gmail.com',
 //     to: 'skadirov2009@gmail.com',
